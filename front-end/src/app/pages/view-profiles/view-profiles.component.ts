@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./view-profiles.component.scss']
 })
 export class ViewProfilesComponent implements OnInit {
+  
 
   constructor() { }
 
